@@ -1,9 +1,6 @@
 ![image](https://github.com/user-attachments/assets/1c302db6-839b-4e94-87ef-f02e5d8670cc)<h1 align="center">Hi 👋, I'm Tarun Yadav</h1>
 <h3 align="center">Full Stack Developer | DSA Learner | Real-Time App Builder</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Real-Time+Apps+%E2%9A%A1;Loves+DSA+and+Problem+Solving+%F0%9F%A7%A0" alt="Typing SVG" />
-</p>
 
 ---
 
