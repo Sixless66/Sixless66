@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1c302db6-839b-4e94-87ef-f02e5d8670cc)<h1 align="center">Hi 👋, I'm Tarun Yadav</h1>
+<h1 align="center">Hi 👋, I'm Tarun Yadav</h1>
 <h3 align="center">Full Stack Developer | DSA Learner | Real-Time App Builder</h3>
 
 
